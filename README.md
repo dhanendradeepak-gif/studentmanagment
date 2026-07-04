@@ -43,4 +43,4 @@ student_management_system/
 git clone https://github.com/YOUR_USERNAME/student-management-system.git
 cd student-management-system
 pip install -r requirements.txt
-http://127.0.0.1:5001/
+http://127.0.0.1:5000/
